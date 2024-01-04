@@ -1,1 +1,1 @@
-# We-Rate-Dogs---Twitter-Analysis
+# We Rate Dogs - Twitter-Analysis
